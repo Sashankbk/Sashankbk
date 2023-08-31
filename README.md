@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sashankbk
 - 👀 I’m interested in soccer. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Design.
+- 💞️ I’m looking to collaborate on projects. 
+- 📫 How to reach me sashankbk10@gmail.com
 
 <!---
 Sashankbk/Sashankbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
